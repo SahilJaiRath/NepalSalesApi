@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\WebServiceApp\WebServiceApp\obj\Debug\netcoreapp3.1\WebServiceApp.RazorAssemblyInfo.cs

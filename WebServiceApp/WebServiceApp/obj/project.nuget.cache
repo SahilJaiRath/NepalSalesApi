@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGumaWQJuJmSFB/zD6m/ESJPfGvhA27N/tOYmOhZSFrIKtdHsd/iXHdh+ODjXorc9TAsp07n/fy8zT0gluubaw==",
+  "success": true,
+  "projectFilePath": "D:\\NepalApi\\WebServiceApp\\WebServiceApp\\WebServiceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.100\\oracle.manageddataaccess.core.3.21.100.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.1\\system.diagnostics.performancecounter.6.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.directoryservices\\6.0.1\\system.directoryservices.6.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
